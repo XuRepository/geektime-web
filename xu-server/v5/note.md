@@ -1,0 +1,2 @@
+方法：采用map和实现Handler的形式，将handler、HandlerBasedMap的实现不暴露给Route
+采用map和实现Handler的形式,实现对于GET POST等等方法的判断！
